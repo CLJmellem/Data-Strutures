@@ -1,0 +1,6 @@
+﻿  StaticStack.cpp
+  main.cpp
+C:\Users\cljme\source\repos\Lista2_Ex1\main.cpp(12,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  palindromo.cpp
+  Gerando Código...
+  Lista2_Ex1.vcxproj -> C:\Users\cljme\source\repos\Lista2_Ex1\Debug\Lista2_Ex1.exe
