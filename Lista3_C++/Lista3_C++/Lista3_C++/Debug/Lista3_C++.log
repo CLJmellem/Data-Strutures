@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\cljme\source\repos\Lista3_C++\Lista3_C++\main.cpp(91,34): warning C4244: 'argumento': conversão de 'time_t' para 'int', possível perda de dados
+C:\Users\cljme\source\repos\Lista3_C++\Lista3_C++\main.cpp(102,34): warning C4244: 'argumento': conversão de 'time_t' para 'int', possível perda de dados
+C:\Users\cljme\source\repos\Lista3_C++\Lista3_C++\main.cpp(196,20): warning C4551: faltando lista de argumentos na chamada de função
+  Lista3_C++.vcxproj -> C:\Users\cljme\source\repos\Lista3_C++\Debug\Lista3_C++.exe
